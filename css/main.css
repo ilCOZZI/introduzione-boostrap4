@@ -1,0 +1,11 @@
+.container {
+	padding-top: 150px;
+}
+
+body {
+	background:url('../images/LA.jpg') no-repeat 
+}
+
+.input-group {
+	max-width: 500px;
+}
